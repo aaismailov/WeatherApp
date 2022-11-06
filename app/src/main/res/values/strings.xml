@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="wait">wait…</string>
+    <string name="week_forecast">ПРОГНОЗ НА НЕДЕЛЮ</string>
+    <string name="welcome">Добро пожаловать! Разрешите доступ к вашей геолокации или впишите нужный город в поле выше.</string>
+
+    <string name="permission_title">Разрешить доступ?</string>
+    <string name="permission_body">Доступ к геолокации необходим, если вы желаете получить погоду в вашем городе</string>
+    <string name="permission_confirm">РАЗРЕШИТЬ</string>
+    <string name="permission_dismiss">ОТМЕНИТЬ</string>
 </resources>
